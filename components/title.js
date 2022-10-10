@@ -3,7 +3,7 @@ import { Text, View, StyleSheet  } from 'react-native';
 
  export default function Title(){
  return (
-    <View style={styles.container}>
+    <View>
       <Text style={styles.title}> Our Products</Text>
     </View>
   );

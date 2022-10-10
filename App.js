@@ -33,7 +33,7 @@ export default App = () => {
           renderItem={({ item}) => (
             <View style={styles.items}>
 
-            <Image style={styles.image} source={{uri: 'http://loremflickr.com/640/480/food'}}/>
+            <Image style={styles.image} source={{uri: item.picture}}/>
             <Text style={styles.itemName}> {item.product_name} </Text>
               <Text style={styles.itemCategory}> {item.category} </Text>
               <Text style={styles.itemPrice}> R${item.price} </Text>
