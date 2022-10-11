@@ -4,7 +4,6 @@
 <br>
 Este repositório contém um App em RN desenvolvido para cumprir um desafio e comprovar minha experiência e vontade de aprender.
 O App foi desenvolvido com base no projeto abaixo, utilizando uma chamada API para adicionar a lista de produtos:
-
 <br>
 
 <img src="https://user-images.githubusercontent.com/830261/191360935-874623d2-b6d0-4d4f-b1b2-1499d44b51ae.png" width="250">
